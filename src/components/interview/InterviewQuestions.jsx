@@ -169,7 +169,7 @@ const InterviewQuestions = () => {
                 <main className={style.container}>
                     {/* <h1>PRO-TEK Consulting</h1> */}
                     <h1>ReactJS</h1>
-                    <h2>Randomized Interview Questions</h2>
+                    <h2>Randomized Interview Questions and Answers</h2>
                     <section className={style.section}>
                         <div>
 
