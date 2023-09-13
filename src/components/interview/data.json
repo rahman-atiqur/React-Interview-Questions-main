@@ -1,0 +1,93 @@
+[
+    {
+    "id": "4.1",
+    "question": "Why do we use React?",
+    "answer": " "
+},
+{
+    "id": "4.2",
+    "question": "What is props and state?",
+    "answer": " "
+},
+{
+    "id": "4.3",
+    "question": "What is a Component?",
+    "answer": " "
+},
+{
+    "id": "4.4",
+    "question": "How to repeat over array and create elements?",
+    "answer": " "
+},
+{
+    "id": "4.5",
+    "question": "Why do we need keys?",
+    "answer": " "
+},
+{
+    "id": "4.6",
+    "question": "What is Lifecycle methods in react?",
+    "answer": " "
+},
+{
+    "id": "4.7",
+    "question": "What are Controlled and Uncontrolled forms?",
+    "answer": " "
+},
+{
+    "id": "4.8",
+    "question": "What is concept of Lifting State Up?",
+    "answer": " "
+},
+{
+    "id": "4.9",
+    "question": "What is Virtual Dom?",
+    "answer": " "
+},
+{
+    "id": "4.10",
+    "question": "How to update the state?",
+    "answer": " "
+},
+{
+    "id": "4.11",
+    "question": "What is Higher Order Components?",
+    "answer": " "
+},
+{
+    "id": "4.12",
+    "question": "What are Stateful and Stateless?",
+    "answer": " "
+},
+{
+    "id": "4.13",
+    "question": "What is Pure Components?",
+    "answer": " "
+},
+{
+    "id": "4.14",
+    "question": "What is Fragments?",
+    "answer": " "
+},
+{
+    "id": "4.15",
+    "question": "What is Render Props?",
+    "answer": " "
+},
+{
+    "id": "4.16",
+    "question": "What are Refs and Forwarding Refs?",
+    "answer": " "
+},
+{
+    "id": "4.17",
+    "question": "What is Context?",
+    "answer": " "
+},
+{
+    "id": "4.18",
+    "question": "What is Hooks?",
+    "answer": " "
+}
+
+]

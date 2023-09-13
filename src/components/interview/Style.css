@@ -1,0 +1,194 @@
+body {
+  width: 800px;
+  margin: 10px auto;
+  /* background-color: #eaeded; */
+  /* background-color: #fcebb6;; */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Home css */
+
+.container {
+  width: 800px;
+  height: 900px;
+  /* margin: 10px auto; */
+
+  background-color: #d6ecfa;
+  background-color: #eaeded;
+  background-color: #eaeded;
+
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  border: 1px solid black;
+}
+
+.header {
+  width: 600px;
+  height: 100px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color:#9fd5f7 ; */
+
+}
+
+h1 {
+  color: black;
+  font-size: 2rem;
+}
+
+form div label {
+
+  font-size: 1.2rem;
+  padding: 10px 0;
+  display: block;
+}
+
+form div {
+  margin: 10px;
+  /* display: block; */
+}
+
+
+
+/* ------------------------X----------------------- */
+/* ------------------------X----------------------- */
+
+
+
+
+/* addTodo css */
+.form {
+  width: 500px;
+  background-color: rgb(0, 120, 120);
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.form-row {
+  margin: 1rem 0;
+  display: flex;
+}
+
+.form-row label {
+  flex-basis: 20%;
+}
+
+.form-row input {
+  flex-basis: 80%;
+  border: none;
+  border-radius: 0.4rem;
+  padding: 0.2rem;
+}
+
+.form-row textarea {
+  flex-basis: 80%;
+  resize: none;
+  border: none;
+  border-radius: 0.6rem;
+  padding: 0.2rem;
+}
+
+.form button {
+  width: 60%;
+  height: 30px;
+  margin: 0 auto;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  display: block;
+  /* background-color:ghostwhite; */
+  background-color: deepskyblue;
+}
+
+.form button:hover {
+  background-color: orange;
+  color: white;
+}
+
+/* todos css */
+.todos {
+  width: 500px;
+  background-color: rgb(0, 100, 100);
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.6rem;
+  overflow: auto;
+  height: 60vh;
+}
+
+/* todo css */
+.todo {
+  background-color: rgb(0, 80, 80);
+  margin: 0.5rem;
+  border-radius: 0.6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+.todo:hover {
+  background-color: rgb(0, 120, 120);
+}
+
+.todo p {
+  opacity: 0.6;
+}
+
+.todo button {
+  border: none;
+  background-color: transparent;
+  color: red;
+  cursor: pointer;
+}
+
+/* simple button */
+
+button {
+  width: 150px;
+  height: 2rem;
+  font-size: 1.4rem;
+  /* border: none; */
+  /* background-color: #2c974b; */
+  /* color: white; */
+  border-radius: 5px;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: #42c87e;
+
+}
+
+
+input {
+  width: 300px;
+  height: 1.3rem;
+  font-size: 1.1rem;
+  border: none;
+}
+
+
+/* Registration Form */
+table {
+  width: 700px;
+  background-color: #def
+}
+
+table,
+tr,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+tr {
+  height: 40px
+}
